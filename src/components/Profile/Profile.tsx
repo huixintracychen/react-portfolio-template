@@ -16,15 +16,15 @@ interface ProfileData {
  */
 const profileData: ProfileData = {
   typewriterName: [
-    "Heyo peeps, I'm Will.",
+    "Hellooo, I'm Tracy.",
     "I love to learn.",
-    "William De Rocco :)",
+    "Huixin (Tracy) Chen :)",
   ],
-  graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
+  graduatingClass: 2028,
+  majorMinor: "B.S. in Business Administration, Minor in Data Science",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
-  currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
+  currentPosition: "QST Lab Computer Assistant/Programmer"
 };
 
 /**
