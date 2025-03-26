@@ -23,7 +23,7 @@ const profileData: ProfileData = {
   graduatingClass: 2028,
   majorMinor: "B.S. in Business Administration, Minor in Data Science",
   websiteHref: "https://github.com/wderocco8",
-  imgSrc: "/images/profile/profile.jpeg",
+  imgSrc: "/images/profile/tracy.png",
   currentPosition: "QST Lab Computer Assistant/Programmer"
 };
 
