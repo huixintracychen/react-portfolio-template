@@ -11,19 +11,14 @@ import {
 
 // TODO: replace this with your actual experiences (you can write MUCH more than I did...)
 const USER_BACKGROUND = `
-My Name is William De Rocco.
+My Name is Huixin (Tracy) Chen.
 
-I am a senior at Boston University studying Computer Science.
-I worked at Rhapsody Health as a Full Stack Software Engineer Intern in the Summer of 2024, 
-where I used Typescript-React, Jest, Dotnet, Docker, Kubernetes... etc.
-I'm planning to start working at Fidelity as a LEAP Software Engineer in May of 2025.
+I am a Freshman at Boston University studying Business Administration, concentrating in Information Systems and minoring in Data Science.
+I intered at JP Morgan and Chase last summer and explored investment banking and professionalism
 
-I specialize in React, TypeScript, and Node.js development.
-I've built and contributed to many web applications including an attendence and application management
- system called WhyPhi and, most recently, an open-source Raycast extension called Huggingcast.
 
-I enjoy rock climbing, cooking, running, and yes... coding in my free time.
-I speak English fluently and am intermediate in Italian.
+I enjoy dancing, cooking, baking, and making art. 
+I speak English fluently and took Russian for 3 years in high school. I understand some words in Japanese and I can speak Mandarin and Cantonese.
 `;
 
 /**

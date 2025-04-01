@@ -22,10 +22,10 @@ const profileData: ProfileData = {
   ],
   graduatingClass: 2028,
   majorMinor: "B.S. in Business Administration, Minor in Data Science",
-  websiteHref: "https://github.com/wderocco8",
+  websiteHref: "www.linkedin.com/in/huixintracychen",
   imgSrc: "/images/profile/tracy.png",
   currentPosition: "QST Lab Computer Assistant/Programmer"
-};
+};  
 
 /**
  * `Profile` returns info about yourself. Be sure to replace

@@ -8,99 +8,90 @@ import "./Activities.css";
 const activities: ActivityProps[] = [
   // Activity 1
   {
-    imgSrc: "/images/activities/activity1.jpeg",
-    imgAlt: "Coding with David Malin at HackHarvard.",
-    title: "Coding",
+    imgSrc: "/images/activities/dance.png",
+    imgAlt: "My performance",
+    title: "Dancing",
     description: (
       <>
         <p>
-          Even though we have to code constantly for class, this is something
-          that I genuinely enjoy learning in my free time.
+        I picked up dancing during high school, and it has since become a way for me to deeply connect with music. The rhythm and beats allow me to express emotions and ideas that I often find difficult to put into words.
         </p>
         <p>
-          Especially for when it comes to <strong>web-development</strong>,
-          where the creative opportunities are literally endless, I find myself
-          spending hours going down rabbit holes of formative exploration.
+        Dancing also serves as a wonderful way for me to destress, especially after long or challenging days. It provides a sense of freedom, allowing me to momentarily forget about everything else and fully immerse myself in the moment.  
         </p>
       </>
     ),
     quicklinks: [
-      { href: "https://github.com/whyphi", name: "WhyPhi" },
-      { href: "https://grub-gallery.vercel.app/", name: "GrubGallery" },
-      { href: "https://github.com/wderocco8/ZipSurf", name: "ZipSurf" },
+      { href: "https://github.com/whyphi", name: "" },
+      { href: "https://grub-gallery.vercel.app/", name: "" },
+      { href: "https://github.com/wderocco8/ZipSurf", name: "" },
       {
         href: "https://github.com/alexjmiller5/BU-GCalSync",
-        name: "BU-GCalSync",
+        name: "",
       },
     ],
   },
   // Activity 2
   {
-    imgSrc: "/images/activities/activity2.jpeg",
+    imgSrc: "/images/activities/art.png",
     imgAlt: "Rock climbing at FitRec.",
-    title: "Rock Climbings",
+    title: "Art",
     description: (
       <>
         <p>
-          I started rock climbing about 2 years ago, and since then, it has been
-          nothing short of amazing (maybe even <em>addicting</em>).
+        I've loved art ever since I was a kid, always finding joy in creating and exploring different mediums.
         </p>
         <p>
-          I love the challenge of finding the optimal "beta" through a problem,
-          and pushing your body to it's limit.
+        While I don’t have as much time for art these days, I still cherish the opportunity to hand-make cards for my friends. It’s a way for me to express my creativity and show appreciation for the people I care about, even in the midst of a busy schedule.  
         </p>
       </>
     ),
     quicklinks: [
       {
         href: "https://www.bu.edu/fitrec/what-we-offer/outdoor-programs/rock-climbing/",
-        name: "Fitrec Climbing Wall",
+        name: "",
       },
     ],
   },
   // Activity 3
   {
-    imgSrc: "/images/activities/activity3.jpeg",
+    imgSrc: "/images/activities/baking.png",
     imgAlt: "Tabling with PCT (Phi Chi Theta).",
-    title: "BU Phi Chi Theta (PCT)",
+    title: "Baking",
     description: (
       <>
         <p>
-          I joined PCT (a professional business fraternity) my very first
-          semesert at BU. It was probably one of the most impactful decsions
-          I've made in terms of the <strong>friends</strong> made,{" "}
-          <strong>skills</strong> acquired, and abundance of unique experiences.
-          (Feel free to check out our website WhyPhi 😜)
+        I have always loved baking, and over the years, I have baked everything from cupcakes and brownies to decorated cakes.
+        </p>
+        <p>
+        One of my specialties is making lemon cookies, which I take great pride in. Back in high school, I would mass bake these lemon cookies as Christmas gifts for my loved ones to show my appreciation. It became a special tradition that not only let me share something I love but also gave me the chance to express my gratitude through a personal and thoughtful gesture.
         </p>
       </>
     ),
     quicklinks: [
-      { href: "https://bupct.com/", name: "BUPCT" },
-      { href: "https://github.com/whyphi", name: "WhyPhi" },
+      { href: "https://bupct.com/", name: "" },
+      { href: "https://github.com/whyphi", name: "" },
     ],
   },
   // Activity 4
+
   {
-    imgSrc: "/images/activities/activity4.jpeg",
+    imgSrc: "/images/activities/cooking.png",
     imgAlt: "Cooking with my mom.",
     title: "Cooking",
     description: (
       <>
         <p>
-          Growing up, I always had the opportunity to watch my mom cook, and
-          even help out in the kitchen. Once my parents started working more, I
-          ended up taking more responsibility for cooking meals for the whole
-          family.
+        Since my dad worked as a chef, I have always enjoyed learning how to cook from him.
         </p>
         <p>
-          This slowly grew into a passion, and now is something that I spend a
-          lot of free time doing for fun!
+          He inspired my love for experimenting in the kitchen, and over time, I developed a passion for making a variety of Asian food. I enjoy exploring different flavors and techniques, always eager to try new recipes and create meals that are both delicious and meaningful.
         </p>
       </>
     ),
     quicklinks: [
-      { href: "https://www.babi.sh/", name: "Babish Culinary Universe" },
-      { href: "https://cooking.nytimes.com/", name: "NYT Cooking" },
+      { href: "https://www.babi.sh/", name: "" },
+      { href: "https://cooking.nytimes.com/", name: "" },
     ],
   },
 ];

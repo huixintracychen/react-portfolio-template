@@ -11,15 +11,11 @@ const aboutData: AboutData = {
   info: (
     <>
       <p>
-        Hello there, my name is Will, and I'm originally from Manhattan,
-        although I have lived in a few other cities, my family has found our way
-        back there yet again! Currently, I'm a senior and aspiring software
-        engineer studying at Boston University.
+        Hi there, my name is Tracy, and I am from New York City. Currently, I'm a freshman and aspiring business intelligent analyst studying at Boston University.
       </p>
       <p>
         I absolutely love learning new skills and challenging myself in
-        different respects. To learn more about what I've been working on, feel
-        free to check out my <a href="https://github.com/wderocco8">GitHub</a>{" "}
+        different respects. To learn more about what I've done, free free to check out my  <a href="www.linkedin.com/in/huixintracychen">LinkedIn</a>{" "}
         😁.
       </p>
     </>

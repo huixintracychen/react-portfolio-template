@@ -8,19 +8,19 @@ import "./Projects.css";
 const projects: ProjectProps[] = [
   // Project 1
   {
-    websiteHref: "https://github.com/wderocco8/Grub-Gallery",
-    imgSrc: "/images/projects/project1.jpeg",
-    title: "Grub Gallery",
+    websiteHref: "",
+    imgSrc: "/images/projects/biztech.png",
+    title: "BizTech x Accenture Case Competition",
     description:
-      "Grub Gallery is a dynamic web application built using the MERN stack, integrating Google OAuth, Spoonacular API, and Google Calendar API. This project allows users to discover and personalize dishes and recipes effortlessly.",
+      "This was the first case competition that I participated in. I gained a strong understanding of the proper format for consulting decks, including structured storytelling, concise messaging, and effective financial projections.",
   },
   // Project 2
   {
-    websiteHref: "https://github.com/wderocco8/ZipSurf",
-    imgSrc: "/images/projects/project2.jpeg",
-    title: "ZipSurf",
+    websiteHref: "",
+    imgSrc: "/images/projects/rivian.png",
+    title: "Rivian Company Analysis",
     description:
-      "ZipSurf is a React based web application designed to enabling users to create, save, delete, and export shortened URLs.",
+      "During my Business, Ethics, and Values class, I learned about the various functions of companies, including operations, finance, marketing, and human resources. I also gained insight into business values and ethics, understanding how they shape organizational culture and guide decision-making in a socially responsible manner.",
   },
 ];
 
